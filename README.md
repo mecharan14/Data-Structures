@@ -19,3 +19,10 @@
 6. Check queue is Full
 7. Print queue
 8. Clear queue
+
+## Stack (LIFO)
+1. Create Stack
+2. Push
+3. Pop
+4. Print Stack
+5. Exit
