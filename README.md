@@ -25,4 +25,12 @@
 2. Push
 3. Pop
 4. Print Stack
-5. Exit
+
+## Binary Search Tree
+1. Create a BST
+2. Insert node
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+
