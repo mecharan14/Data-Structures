@@ -87,6 +87,7 @@ while True:
         q.clear()
         q.q.clear()
     elif choice == 9:
+        print("Exiting..")
         break
     else:
         print("Invalid choice.")

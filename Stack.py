@@ -60,6 +60,7 @@ while True:
     elif choice == 4:
         st.printAll()
     elif choice ==5:
+        print("Exiting..")
         break
     else:
         print("Invalid choice")

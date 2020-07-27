@@ -125,6 +125,7 @@ while True:
         print("Printing Linked List:")
         linked_list.printAll()
     elif choice == 10:
+        print("Exiting..")
         break
     else:
         print("Invalid choice")
