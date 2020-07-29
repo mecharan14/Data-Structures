@@ -34,3 +34,8 @@
 5. Preorder Traversal
 6. Postorder Traversal
 
+## Linear Search
+## Binary Search
+## Bubble Sort
+## Insertion Sort
+
